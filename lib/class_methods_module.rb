@@ -1,6 +1,6 @@
 module MetaDancing
 
-  def metedaata
+  def metedata
     "This class produces objects that love to dance."
   end
 
