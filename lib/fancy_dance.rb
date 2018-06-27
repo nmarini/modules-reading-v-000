@@ -1,4 +1,4 @@
-module FancyDance 
+module FancyDance
   module InstanceMethods
     def twirl
      "I'm twirling!"
@@ -24,5 +24,5 @@ module ClassMethods
     end
   end
 end
-  
+
  
